@@ -38,6 +38,7 @@ Graphs are useful data structures for representing relationships between objects
 
 Conclusion
 The implementation of graphs with DFS and BFS provides a strong foundation for understanding graph traversal. DFS is useful when deep exploration and backtracking are required, while BFS is particularly useful for level-wise traversal and finding the shortest path in an unweighted graph. Understanding both algorithms helps in solving various real-world and computational problems efficiently and forms an important part of data structures and algorithms.
+
 PRACTICAL_9
 SUMMARY:
 Prim’s algorithm is used to find the Minimum Spanning Tree (MST) of a connected, weighted graph. It starts from one vertex and repeatedly selects the minimum-weight edge that connects a selected vertex to an unselected vertex.
